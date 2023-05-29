@@ -30,3 +30,9 @@ git commit -m
 ```fix
 git log
 ```
+
+**Переход от одного коммита к другому:**
+
+```fix
+git checkout
+```
